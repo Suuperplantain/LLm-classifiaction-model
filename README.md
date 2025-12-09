@@ -9,7 +9,7 @@ The Kaggle dataset includes:
 - `test.csv` – test data without labels  
 - `sample_submission.csv` – required submission format  
 
-## 🔧 What the Notebook Does
+##  What the Notebook Does
 - Loads and inspects the dataset  
 - Cleans and prepares text for modelling  
 - Fine-tunes a classification model on the training data  
